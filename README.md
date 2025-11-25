@@ -15,3 +15,16 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## 📱 App UI Screenshots
+<p float="left">
+    <img src="asset/screenshots/login_screen.png" width="250" />
+    <img src="asset/screenshots/register_screen.png" width="250" />
+    <img src="asset/screenshots/home_screen.png" width="250" />
+    <img src="asset/screenshots/favorite_screen.png" width="250" />
+    <img src="asset/screenshots/order_screen.png" width="250" />
+    <img src="asset/screenshots/profile_screen.png" width="250" />
+    <img src="asset/screenshots/item_detail_screen.png" width="250" />
+    <img src="asset/screenshots/search_screen.png" width="250" />
+    <img src="asset/screenshots/category_screen.png" width="250" />
+</p>
+
